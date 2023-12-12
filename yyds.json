@@ -309,27 +309,47 @@
     },
 
     {
-      "key": "玩偶哥哥",
-      "name": "玩☺偶",
+      "key": "豆瓣",
+      "name": "豆瓣",
       "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.link/$$$弹",
-      "jar": "./lib/wanou.jar"
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/douban.json"
     },
     {
-      "key": "csp_WoGG",
-      "name": "偶☺哥",
+      "key": "玩偶哥哥",
+      "name": "玩偶云盘",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "changeable": 0,
-      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "./tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://小盒酷玩.fun:71/禁止贩卖$$$https://api.wogg.xyz/$$$null$$$1",
+      "timeout": 30
     },
-
+    {
+      "key": "云盘",
+      "name": "云盘",
+      "type": 3,
+      "api": "csp_XiaoZhang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://小盒酷玩.fun:71/禁止贩卖$$$null$$$1",
+      "timeout": 30
+    },
+    {
+      "key": "花海",
+      "name": "花",
+      "api": "csp_AppYs",
+      "jar": "http://小盒酷玩.fun:67/禁止贩卖",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
     {
       "key": "XBPQ_星辰",
       "name": "📺┃星辰┃影视",
