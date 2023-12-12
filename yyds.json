@@ -424,16 +424,6 @@
       ]
     },
     {
-       "key": "csp_appys_影探",
-       "name": "影探4K",
-       "type": 3,
-       "api": "csp_AppYsV2",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "http://longzhiqing.lfytyl.com/api.php/app/",
-    },
-    {
       "key": "js_轰轰",
       "name": "📺┃轰轰┃影视",
       "type": 3,
