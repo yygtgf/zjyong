@@ -307,7 +307,6 @@
         "战争片"
       ]
     },
-    
     {
       "key": "玩偶哥哥",
       "name": "玩偶☺哥哥┃尝试修复15分钟断流",
@@ -317,17 +316,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
-      "key": "云盘",
-      "name": "云盘",
-      "type": 3,
-      "api": "csp_XiaoZhang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://小盒酷玩.fun:71/禁止贩卖$$$null$$$1",
     },
     {
       "key": "花海",
