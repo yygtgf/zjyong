@@ -12,14 +12,13 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "玩☺偶",
+      "name": "偶☺哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.link/$$$弹",
-      "jar": "./lib/wanou.jar"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "csp_非凡资源",
@@ -318,15 +317,29 @@
         "战争片"
       ]
     },
+    
     {
-      "key": "花海",
-      "name": "花",
-      "api": "csp_AppYs",
-      "jar": "http://小盒酷玩.fun:67/禁止贩卖",
+      "key": "玩偶哥哥",
+      "name": "偶☺哥",
       "type": 3,
-      "playerType": "2",
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+    {
+      "key": "玩偶哥哥",
+      "name": "玩☺偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.link/$$$弹",
+      "jar": "./lib/wanou.jar"
+    },
+
     {
       "key": "XBPQ_星辰",
       "name": "📺┃星辰┃影视",
