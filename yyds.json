@@ -21,6 +21,16 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
+      "key": "csp_appys_影探",
+      "name": "影探4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://longzhiqing.lfytyl.com/api.php/app/",
+    },
+    {
       "key": "csp_非凡资源",
       "name": "影视软件",
       "type": 1,
