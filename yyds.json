@@ -4,11 +4,11 @@
       "key": "js豆瓣",
       "name": "📺︎接口免费",
       "type": 3,
-      "api": "https://gitee.com/gagakuai/tvbox/raw/master/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/douban.js"
+      "ext": "./lib/douban.js"
     },
     {
       "key": "csp_非凡资源",
@@ -143,8 +143,8 @@
       "key": "js_荐片",
       "name": "📺︎┃荐片┃1080P",
       "type": 3,
-      "api": "https://gitee.com/gagakuai/tvbox/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/荐片.js",
+      "api": "'/lib/drpy2.min.js",
+      "ext": "'/lib/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -164,11 +164,11 @@
       "key": "js_nangua",
       "name": "📺︎┃南瓜┃1080P",
       "type": 3,
-      "api": "https://gitee.com/gagakuai/tvbox/raw/master/lib/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/nangua.js"
+      "ext": "../lib/nangua.js"
     },
     {
       "key": "js_007",
