@@ -12,13 +12,23 @@
     },
     {
       "key": "花海",
-      "name": "🌼花海┃影视",
+      "name": "花海┃影视",
       "api": "csp_AppYs",
       "jar": "http://小盒酷玩.fun:67/禁止贩卖",
       "type": 3,
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
+   {
+       "key": "csp_appys_影探",
+       "name": "影探4K",
+       "type": 3,
+       "api": "csp_AppYsV2",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "http://longzhiqing.lfytyl.com/api.php/app/",
+    }
     {
       "key": "玩偶哥哥",
       "name": "偶☺哥",
