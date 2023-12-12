@@ -319,16 +319,6 @@
       ]
     },
     {
-      "key": "玩偶哥哥",
-      "name": "玩偶☺哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
       "key": "花海",
       "name": "花",
       "api": "csp_AppYs",
