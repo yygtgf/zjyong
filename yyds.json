@@ -18,8 +18,8 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
-    },
-   {
+    },,
+    {
        "key": "csp_appys_影探",
        "name": "影探4K",
        "type": 3,
