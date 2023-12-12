@@ -9,7 +9,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./lib/douban.js"
-    },
+    }
     {
       "key": "花海",
       "name": "花海┃影视",
