@@ -307,17 +307,7 @@
         "战争片"
       ]
     },
-
-    {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/douban.json"
-    },
+    
     {
       "key": "玩偶哥哥",
       "name": "玩偶云盘",
@@ -327,7 +317,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://小盒酷玩.fun:71/禁止贩卖$$$https://api.wogg.xyz/$$$null$$$1",
-      "timeout": 30
     },
     {
       "key": "云盘",
@@ -339,7 +328,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "http://小盒酷玩.fun:71/禁止贩卖$$$null$$$1",
-      "timeout": 30
     },
     {
       "key": "花海",
